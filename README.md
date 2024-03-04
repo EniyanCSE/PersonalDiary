@@ -7,7 +7,6 @@ This Streamlit web application allows you to manage your personal diary entries.
 1. Install the required packages:
    ```bash
    pip install streamlit pandas
-   pip install
    ```
    
 2. To run
